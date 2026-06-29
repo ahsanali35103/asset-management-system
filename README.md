@@ -110,23 +110,11 @@ During my internship at **Programmer Force**, I contributed to the following mod
 
 ---
 
-## 📈 Project Status
-
-✅ Completed (Portfolio Version)
-
----
-
-## 📄 License
-
-This project is shared for **portfolio and educational purposes**.
-
----
-
 ## 📬 Contact
 
 **Ahsan Ali**
 
-📧 Email: [itsahsan.dev@gmail.com](mailto:itsahsan.dev@gmail.com)
+📧 Email: itsahsan.dev@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/ahsan-ali-it/
 
